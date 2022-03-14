@@ -1,0 +1,27 @@
+#map { height: 180px; }
+
+.leaflet-container{
+    height: 25vw;
+    border-radius: 15px;
+}
+
+
+.pages{
+    display: flex;
+}
+.pageLeft{
+    width:50vw;
+    height:30vw;
+    margin-top: 50px;
+}
+.map{
+    width:80%;
+    text-align: center;
+    item-align:center;
+    margin:0 auto;
+}
+
+.paegRight{
+    width:50vw;
+    height: 30vw;
+}
